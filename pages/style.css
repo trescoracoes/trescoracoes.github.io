@@ -24,3 +24,7 @@ div {
     width: 75%;
     border: 1px solid black;
 }
+
+#ninite1, #bancodobrasil1, #impressoras, #atualizarwindows, #sirius, .pluginreverse {
+    width: 100%;
+}
